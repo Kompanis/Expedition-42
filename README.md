@@ -1,7 +1,7 @@
 # Expedition-42
 Проект выполнялся для прохождения практики 
 
-![alt text](image.png) - запуск xammp и запуск Apache c MySQL. Я использовал XAMPP Control Panel v3.3.0
+example.png в самом проекте - пример запуска xammp и Apache c MySQL. Я использовал XAMPP Control Panel v3.3.0
 
 
 Расположение моей папки с проектом: E:\xampp\htdocs\Expedition-42
