@@ -44,10 +44,10 @@ if ($stmt->execute()) {
   $mail = new PHPMailer(true);
   try {
     $mail->isSMTP();
-    $mail->Host = 'smtp.gmail.com';       // SMTP сервер (пример: Gmail)
+    $mail->Host = 'smtp.gmail.com';      
     $mail->SMTPAuth = true;
-    $mail->Username = 'andrtrotchenko30@gmail.com';      // 👉 замени на свою почту
-    $mail->Password = 'gvxp jary maeb zrzb';        // 👉 замени на App Password
+    $mail->Username = 'andrtrotchenko30@gmail.com';     
+    $mail->Password = 'gvxp jary maeb zrzb';       
     $mail->SMTPSecure = 'tls';
     $mail->Port = 587;
 
