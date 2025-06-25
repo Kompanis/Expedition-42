@@ -10,3 +10,4 @@ http://localhost/phpmyadmin/ - лок сервер бд, все включает
 
 
 
+git clone https://github.com/Kompanis/Expedition-42.git - скачать проект, все находится в ветке master
